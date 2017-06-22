@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">758badec-449d-4859-bcb8-b4a6993cc25a</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ce12d484-c57e-4a9a-931d-c449c889183a</dc:identifier>
+        <dc:title>I Will Teach You To Be Rich: No guilt, no excuses - just a 6-week programme that works</dc:title>
+        <dc:creator opf:file-as="Sethi, Ramit" opf:role="aut">Ramit Sethi</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.48.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-01-21T05:00:00+00:00</dc:date>
+        <dc:description>I WILL TEACH YOU TO BE RICH is a practical approach delivered with a non-judgemental style based on the four pillars of personal finance – banking, saving, budgeting and investing – and the wealth-building ideas of personal entrepreneurship. Witty, entertaining, wise and practical, Ramit Sethi explains how to automate your money flow - i.e. earn while sleeping, why your new best friend should be the taxman and how to beat banks and credit cards at the fee game. How do you negotiate a raise? How can you manage student loans? And can you still enjoy your daily latte and buy that iPhone? Sethi's 6-week plan shows you how: Week 1: Optimise your credit cards and learn exactly what to say to get fees waived
+Week 2: Set up no-fee, high-interest bank accounts that won't cost you
+Week 3: Open investment accounts even with a small amount of money
+Week 4: Figure out how much you’re spending. And then learn how to make your money go where you want it to go!
+Week 5: Automate your new infrastructure to make your accounts play nicely together
+Week 6: Why investing isn't the same as picking stocks - how to get the most out of the market with very little work.</dc:description>
+        <dc:publisher>Hodder &amp; Stoughton</dc:publisher>
+        <dc:rights>Copyright © 2009 by Ramit Sethi</dc:rights>
+        <dc:language>en</dc:language>
+        <dc:subject>Self-Improvement</dc:subject>
+        <meta content="{}" name="calibre:author_link_map"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>
